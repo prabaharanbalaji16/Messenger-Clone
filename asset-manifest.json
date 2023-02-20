@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/messenger_clone/static/css/main.4d21d68b.css",
+    "main.js": "/messenger_clone/static/js/main.7fc3b14f.js",
+    "static/js/787.5def024e.chunk.js": "/messenger_clone/static/js/787.5def024e.chunk.js",
+    "index.html": "/messenger_clone/index.html",
+    "main.4d21d68b.css.map": "/messenger_clone/static/css/main.4d21d68b.css.map",
+    "main.7fc3b14f.js.map": "/messenger_clone/static/js/main.7fc3b14f.js.map",
+    "787.5def024e.chunk.js.map": "/messenger_clone/static/js/787.5def024e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d21d68b.css",
+    "static/js/main.7fc3b14f.js"
+  ]
+}
